@@ -5,5 +5,5 @@ The future si simple, the future is light.
 <h3 align="center">BoostLight</h3>
 
 <p align="center">
-   A fork of bootstrap that intends to keep the compaitibility with the bootstrap grid system, font system, and other various utilities and create new htmlx/scss components that include.
+   A fork of bootstrap that intends to keep the compaitibility with the variables, bootstrap grid system, font system, and other various utilities and create new htmlx/scss components that include the scss from the bootstrap components
 </p>
